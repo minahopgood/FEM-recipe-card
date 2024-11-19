@@ -10,7 +10,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Links](#links)
 - [My process](#my-process)
   - [Acomplishments](#acomplishments)
-  - [Links](#links)
+  - [Resources](#resources)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -31,7 +31,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Acomplishments
 I'm proud of my labeling during this challenge. I took a holiday halfway through creating this project, and came back to it quite easily because of the classes and id's used. It gave me a bit of a boost knowing that I am on the right track!
 
-### Links
+### Resources
 - Semantic HTML: [Semrush}(https://www.semrush.com/blog/semantic-html5-guide/) I used this website to help me understand semantic HTML a bit better, and to see which tags I should use for which sections of my website.
 - Tag list: [W3 Schools](https://www.w3schools.com/tags/default.asp) This list of semantic HTML tags by W3 Schools really helped me see the full extent of what you can do with semantic markup.
 
