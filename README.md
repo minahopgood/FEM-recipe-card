@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Solution](https://github.com/minahopgood/FEM-recipe-card)
-- Live Site URL: [Live site]([https://your-live-site-url.com](https://minahopgood.github.io/FEM-recipe-card/))
+- Live Site URL: [Live site](https://minahopgood.github.io/FEM-recipe-card/)
 
 ## My process
 
